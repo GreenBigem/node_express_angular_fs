@@ -34,3 +34,31 @@ npm install express
 
 To see changes while working with app, we install NODEMON
 npm instal nodemon --save-dev
+
+Install body-parser
+npm i body-parser
+
+npm install cors
+
+npm install morgan
+
+npm install mongoose
+
+for jwt
+google bcryptjs
+npm install bcryptjs
+
+install jdon web token
+Look jwt.io
+npm install jsonwebtoken
+
+passport.js
+npm install passport 
+
+
+https://www.passportjs.org/packages/passport-jwt/
+npm install passport-jwt
+
+npm install multer
+
+npm install moment
