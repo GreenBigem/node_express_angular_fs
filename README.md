@@ -20,3 +20,17 @@ git remote add origin <project url>
 git push -f origin master
 
 <!-- Создаем .gitignore, чтобы не отправлять в репощиторий не нужные файлы. -->
+
+Check npm version
+npm -v
+
+Initializing project
+npm init
+
+then create entry point, for example index.js
+
+Becouse of our app will use epress, we need to install express.js
+npm install express
+
+To see changes while working with app, we install NODEMON
+npm instal nodemon --save-dev

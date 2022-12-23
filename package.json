@@ -1,0 +1,32 @@
+{
+  "name": "node_express_angular_fullstack_example",
+  "version": "1.0.0",
+  "description": "example app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenBigem/node_express_angular_fs.git"
+  },
+  "keywords": [
+    "express",
+    "angular",
+    "nodejs"
+  ],
+  "author": "greenbigem@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenBigem/node_express_angular_fs/issues"
+  },
+  "homepage": "https://github.com/GreenBigem/node_express_angular_fs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
