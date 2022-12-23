@@ -1,3 +1,14 @@
+Устанавливаем на компьютер NODE.JS - LTS VERSION
+https://nodejs.org/en/
+
+Установить GIT
+
+Установить последнюю версию Google Chrome
+
+
+
+
+
 # node_express_nagular_fs
 
 Инициализируем проект и создаем GIT репозиторий
